@@ -21,6 +21,16 @@ Currently exploring the frontiers of generative AI, agentic systems, and scalabl
 
 ---
 
+### 🔥 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| **[AI Productivity Toolkit](https://github.com/tahrjatoi/ai-productivity-toolkit)** | AI-powered tools for task prioritization, daily briefs, meeting notes, and focus planning |
+| **[Personal RAG Assistant](https://github.com/tahrjatoi/personal-rag-assistant)** | Lightweight RAG system to chat with your own notes and documents |
+| **[AI Skill Tracker](https://github.com/tahrjatoi/ai-skill-tracker)** | Track and level up your AI/ML skills with deliberate practice logging |
+
+---
+
 ### 🛠️ Tech Stack & Skills
 
 **AI / Machine Learning**  
