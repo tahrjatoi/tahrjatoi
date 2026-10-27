@@ -1,42 +1,63 @@
- 👋 Hi there! I'm @tahrjatoi
+<div align="center">
 
-Welcome to my GitHub profile! Here's a bit about me:
+# 👋 Hey, I'm Tahir Jatoi
 
- 👀 Interests
-I'm passionate about technology, programming, and exploring innovative solutions. My interests include:
-- Web development (frontend & backend)
-- C++ programming and software engineering
-- Database management and optimization
-- React and modern JavaScript frameworks
-- Search engine optimization (SEO) strategies
-- Exploring the history and evolution of technology
+### AI Engineer | Building Intelligent Systems | Full-Stack Developer
 
- 🌱 Currently Learning
-I’m constantly sharpening my skills and currently diving deeper into:
-- Advanced Data Structures and Algorithms
-- Database Systems and Optimization Techniques
-- React and its ecosystem
-- Building scalable and user-friendly web applications
-- The entrepreneurial aspects of technology businesses
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahrjatoi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahrjatoi@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tahrjatoi)
 
- 💞️ Collaboration
-I’m always open to collaborating with like-minded individuals or teams on:
-- Web development projects
-- Open-source contributions
-- Software solutions for startups or agencies
-- Tutorials or tech content creation
-- Any innovative idea you’d like to brainstorm!
+</div>
 
- 📫 Reach Me
-Feel free to connect or reach out:
-- LinkedIn: [Tahir Jatoi](https://www.linkedin.com/in/tahrjatoi)
-- Instagram (Tech Page): [Tahrjatoi](https://instagram.com/tahrjatoi)
-- Email: [tahrjatoi@gmail.com](mailto:tahrjatoi@gmail.com)
+---
 
- 😄 Pronouns
-He/Him
+### 🚀 About Me
 
-⚡ Fun Fact
-When I’m not coding, you can find me creating unboxing videos for tech gadgets or diving deep into the history of technology. I love sharing knowledge and learning collaboratively!
+I'm an **AI Engineer** passionate about turning ideas into intelligent products.  
+I love working at the intersection of **Machine Learning, LLMs, and real-world applications** — building systems that don't just work, but actually feel smart.
 
-Let's connect, collaborate, and create something amazing! 🚀
+Currently exploring the frontiers of generative AI, agentic systems, and scalable backend architecture while continuously leveling up my craft.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+**AI / Machine Learning**  
+`Python` `PyTorch` `Transformers` `LangChain` `OpenAI / Grok APIs` `RAG` `Fine-tuning` `Vector Databases`
+
+**Backend & Systems**  
+`Node.js` `FastAPI` `PostgreSQL` `MongoDB` `Redis` `Docker`
+
+**Frontend**  
+`React` `Next.js` `TypeScript` `Tailwind CSS`
+
+**Other**  
+`C++` `Git` `System Design` `SEO` `Product Thinking`
+
+---
+
+### 🌱 Currently Building & Learning
+
+- Agentic AI systems & multi-agent workflows  
+- Production-ready RAG pipelines  
+- Full-stack AI products (from idea → deployed)  
+- Advanced system design for AI applications  
+
+---
+
+### 📫 Let's Connect
+
+I'm always open to collaborating on interesting AI projects, open-source contributions, or just chatting about the future of intelligence.
+
+- **LinkedIn**: [Tahir Jatoi](https://www.linkedin.com/in/tahrjatoi)  
+- **Email**: [tahrjatoi@gmail.com](mailto:tahrjatoi@gmail.com)  
+- **Instagram**: [@tahrjatoi](https://instagram.com/tahrjatoi)
+
+---
+
+<div align="center">
+
+⚡ *"The best way to predict the future is to build it."*
+
+</div>
