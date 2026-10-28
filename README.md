@@ -1,73 +1,69 @@
 <div align="center">
 
-# 👋 Hey, I'm Tahir Jatoi
-
-### AI Engineer | Building Intelligent Systems | Full-Stack Developer
+# Tahir Jatoi
+### AI Engineer | Intelligent Systems & LLM Applications
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahrjatoi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahrjatoi@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tahrjatoi)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tahrjatoi)
 
 </div>
 
 ---
 
-### 🚀 About Me
+### About
 
-I'm an **AI Engineer** passionate about turning ideas into intelligent products.  
-I love working at the intersection of **Machine Learning, LLMs, and real-world applications** — building systems that don't just work, but actually feel smart.
+AI Engineer focused on building practical, production-oriented intelligent systems.  
+I work at the intersection of **Large Language Models, Retrieval-Augmented Generation (RAG), agentic workflows, and full-stack deployment** — turning research ideas into reliable products.
 
-Currently exploring the frontiers of generative AI, agentic systems, and scalable backend architecture while continuously leveling up my craft.
+My goal is to design systems that are not only technically sound but also useful and maintainable in real-world environments.
 
 ---
 
-### 🔥 Featured Projects
+### Featured Projects
 
 | Project | Description |
 |---------|-------------|
-| **[AI Productivity Toolkit](https://github.com/tahrjatoi/ai-productivity-toolkit)** | AI-powered tools for task prioritization, daily briefs, meeting notes, and focus planning |
-| **[Personal RAG Assistant](https://github.com/tahrjatoi/personal-rag-assistant)** | Lightweight RAG system to chat with your own notes and documents |
-| **[AI Skill Tracker](https://github.com/tahrjatoi/ai-skill-tracker)** | Track and level up your AI/ML skills with deliberate practice logging |
+| **[AI Productivity Toolkit](https://github.com/tahrjatoi/ai-productivity-toolkit)** | Collection of AI-powered tools for task prioritization, daily summaries, meeting notes, and focus planning |
+| **[Personal RAG Assistant](https://github.com/tahrjatoi/personal-rag-assistant)** | Lightweight RAG system that allows chatting with personal notes and documents using local or cloud LLMs |
+| **[AI Skill Tracker](https://github.com/tahrjatoi/ai-skill-tracker)** | Tool to track and visualize AI/ML learning progress, projects, and skill growth over time |
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Technical Skills
 
-**AI / Machine Learning**  
-`Python` `PyTorch` `Transformers` `LangChain` `OpenAI / Grok APIs` `RAG` `Fine-tuning` `Vector Databases`
+**AI & Machine Learning**  
+`Python` · `PyTorch` · `Transformers` · `LangChain` · `OpenAI / Grok APIs` · `RAG` · `Fine-tuning` · `Vector Databases` · `Agentic Systems`
 
-**Backend & Systems**  
-`Node.js` `FastAPI` `PostgreSQL` `MongoDB` `Redis` `Docker`
+**Backend & Infrastructure**  
+`FastAPI` · `Node.js` · `PostgreSQL` · `MongoDB` · `Redis` · `Docker`
 
 **Frontend**  
-`React` `Next.js` `TypeScript` `Tailwind CSS`
+`React` · `Next.js` · `TypeScript` · `Tailwind CSS`
 
 **Other**  
-`C++` `Git` `System Design` `SEO` `Product Thinking`
+`System Design` · `Git` · `C++` · `Product Thinking`
 
 ---
 
-### 🌱 Currently Building & Learning
+### Currently Exploring
 
-- Agentic AI systems & multi-agent workflows  
-- Production-ready RAG pipelines  
-- Full-stack AI products (from idea → deployed)  
-- Advanced system design for AI applications  
+- Production-grade RAG architectures and evaluation
+- Multi-agent systems and tool-using agents
+- End-to-end full-stack AI applications
+- Scalable system design for LLM-powered products
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
-I'm always open to collaborating on interesting AI projects, open-source contributions, or just chatting about the future of intelligence.
+Open to collaborations, interesting AI projects, and conversations about building useful intelligent systems.
 
-- **LinkedIn**: [Tahir Jatoi](https://www.linkedin.com/in/tahrjatoi)  
-- **Email**: [tahrjatoi@gmail.com](mailto:tahrjatoi@gmail.com)  
-- **Instagram**: [@tahrjatoi](https://instagram.com/tahrjatoi)
+- LinkedIn → [Tahir Jatoi](https://www.linkedin.com/in/tahrjatoi)  
+- Email → tahrjatoi@gmail.com  
 
 ---
 
 <div align="center">
-
-⚡ *"The best way to predict the future is to build it."*
-
+*Building systems that think — one iteration at a time.*
 </div>
